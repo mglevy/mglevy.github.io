@@ -26,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Michael is a theoretical biophysicist who most recently was working in transcriptomics for Alzheimer's Disease at the Salk Institute in San Diego. Previously to this he was an Intelligence Community Post-doctoral Fellow in Assessing Collective Ingelligence. He is currently studying Figurative Stone Sculpture at the Art Student League of New York. 
+Michael is a theoretical biophysicist recently working in transcriptomics for Alzheimer's Disease at the Salk Institute in San Diego. Previously, he was an Intelligence Community Post-doctoral Fellow in Assessing Collective Ingelligence. He is currently studying Figurative Stone Sculpture at the Art Student League of New York. 
